@@ -1,4 +1,6 @@
 
+## EX NO: 11
+
 ### SYNCHRONOUS-UP-COUNTER
 
 **AIM:**
